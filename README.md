@@ -32,10 +32,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
   
   
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo" />
-  
-
-  
   <!-- Web Frameworks -->
   
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
@@ -54,16 +50,11 @@
   
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
   
   <!-- DevOps and Cloud -->
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  
-  <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="googlecloud logo" />
-  
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" />
   
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
   
@@ -75,14 +66,9 @@
   
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
-  
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" />
   
   <!-- Operating Systems -->
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-  
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" />
   
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" />
 </div>
