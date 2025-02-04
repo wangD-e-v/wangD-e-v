@@ -84,8 +84,7 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
-  
+  <img src="https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg"/>
   <br/><br/><br/>
 </div>
 
