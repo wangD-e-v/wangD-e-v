@@ -1,5 +1,8 @@
 
-<div align="center"> 
+<div align="center">
+
+    <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+  
   <a href="mailto:wang.dev6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
