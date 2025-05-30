@@ -14,67 +14,37 @@
   </a>
 </div>
 
-<h2 align="center"> Languages-Frameworks-Tools </h2>
-<br/>
-<div align="left">
-  <!-- Popular Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
-  
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
-  
-  
-  <!-- Web Frameworks -->
-  
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  
-  <img src="https://skillicons.dev/icons?i=vuejs" height="40" alt="vuejs logo" />
-  
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
-  
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
-  
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
-  
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  
-  
-  <!-- DevOps and Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-  
-  <!-- Tools -->
-  
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  
-  
-  <!-- Operating Systems -->
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-  
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" />
-</div>
+<h3 align="left">Languages:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,go,cpp,html,htmx,css,scss,php,java,rust,py" alt="John Layda">
+</p>
+
+<h3 align="left">Frontend Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=next,remix,react,vue,nuxt,angular,vite,laravel,astro,tauri" alt="John Albert Layda">
+</p>
+
+<h3 align="left">Backend Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=express,fastapi,django,firebase,flask,graphql,nestjs,appwrite,supabase" alt="John">
+</p>
+
+<h3 align="left">A.I Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=discordjs,pytorch,tensorflow" alt="Albert">
+</p>
+
+<h3 align="left">Database:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,dynamodb,postgres,mongo,sqlite,redis" alt="Layda">
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,prisma,sequelize,ipfs,nginx,cloudflare,workers,linux,babel,jest,postman,kafka,nodejs,npm,yarn,pnpm,jquery,cmake,bash,vscode,autocad,aws,figma,matlab,maven,terraform,threejs,webpack,materialui,grafana,gcp">
+</p>
+
+
 
 </div>
 
