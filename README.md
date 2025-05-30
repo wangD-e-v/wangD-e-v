@@ -14,6 +14,12 @@
   </a>
 </div>
 
+<hr>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=wangD-e-v&label=Profile%20views&color=0e75b6&style=flat" alt="wangD-e-v" /> 
+</p>
+
+
 <h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,ts,go,cpp,html,htmx,css,scss,php,java,rust,py" alt="John Layda">
