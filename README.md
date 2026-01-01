@@ -35,10 +35,6 @@
 <img src="https://skillicons.dev/icons?i=express,fastapi,django,firebase,flask,graphql,nestjs,appwrite,supabase" alt="John">
 </p>
 
-<h3 align="left">A.I Frameworks:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=discordjs,pytorch,tensorflow" alt="Albert">
-</p>
 
 <h3 align="left">Database:</h3>
 <p align="left">
